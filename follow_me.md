@@ -43,15 +43,16 @@ Decoder is uses bilinear upsampling. Bilinear upsampling is a resampling techniq
 
 We use encoder to extract something we fouce on in the picture , in this project we fouce on people ,encoder layer would ignore any other function in the picture for example tree.And using decoder layer to recover the infomation ,but now somethig infomation would disappear.
 
-# 4. model function
+# 4. Model function
 
 Because this topic fouce on people,we can see the train data's masks is fouce on people,so this model can use in identify people not any other for example we could not identify tree.
 
-# 5. future enhancement
+# 5. Future enhancement
 
 Add a classifier model to classifier difference things for example people、car or tree.We can use difference color to fill difference objects.
 
 Add PID control for UAV
 
+# 6. Network architecture
 
 ![demo-1](https://github.com/nnresearcher/udacity_writeup/blob/master/name_of_fig_with_shapes.jpgs)
