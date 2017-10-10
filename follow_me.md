@@ -52,3 +52,6 @@ Because this topic fouce on people,we can see the train data's masks is fouce on
 Add a classifier model to classifier difference things for example people、car or tree.We can use difference color to fill difference objects.
 
 Add PID control for UAV
+
+
+![demo-1](https://github.com/nnresearcher/udacity_writeup/blob/master/name_of_fig_with_shapes.jpgs)
