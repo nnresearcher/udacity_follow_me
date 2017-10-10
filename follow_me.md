@@ -27,7 +27,7 @@ num_epochs = 20
 
 # 3. Convolution\encoder\decoder function
 
-In the begining using 4*4 convolution layer is in order to extract feature from picture,and we can know the classification of each pixel from 1*1 convolution layer . 
+In the begining using 4 x 4 convolution layer is in order to extract feature from picture,and we can know the classification of each pixel from 1*1 convolution layer . 
 
 Encoder is extracting information usually form a low-rank vector .Decoder is uses the information to extract the low-rank processing information, which can then be mixed with other information
 
