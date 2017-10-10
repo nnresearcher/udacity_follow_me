@@ -4,7 +4,7 @@
 | layers        | output shape           | depth  |
 | ------------- |:-------------:| -----:|
 | input layer | 160 * 160 | 3 |
-| 4*4 layer | 160 * 160 | 64 |
+| 4 x 4 layer | 160 * 160 | 64 |
 | encoder 1 | 80 * 80 | 64 |
 | encoder 2 | 40 * 40 | 64 |
 | encoder 3 | 20 * 20 | 128 |
