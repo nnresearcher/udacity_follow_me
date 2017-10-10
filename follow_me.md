@@ -33,5 +33,7 @@ Encoder is extracting information usually form a low-rank vector .Decoder is use
 
 We use encoder to extract something we fouce on in the picture , in this project we fouce on people ,encoder layer would ignore any other function in the picture for example tree.And using decoder layer to recover the infomation ,but now somethig infomation would disappear.
 
+# 4. model function
+
 Because this topic fouce on people,we can see the train data's masks is fouce on people,so this model can use in identify people not any other for example we could not identify tree.
 
