@@ -55,4 +55,4 @@ Add PID control for UAV
 
 # 6. Network architecture
 
-![demo-1](https://github.com/nnresearcher/udacity_writeup/blob/master/name_of_fig_with_shapes.jpgs)
+![demo-1](https://github.com/nnresearcher/udacity_follow_me/blob/master/name_of_fig_with_shapes.jpgs)
